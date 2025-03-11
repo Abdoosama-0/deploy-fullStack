@@ -1,0 +1,1 @@
+in  .env.local  =>   NEXT_PUBLIC_SERVER_URL=http://localhost:5000
